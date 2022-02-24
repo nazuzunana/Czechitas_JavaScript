@@ -1,1 +1,1 @@
-import './cykly/ukol1.js';
+import './cykly/ukol3.js';
