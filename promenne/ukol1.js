@@ -79,3 +79,5 @@ if (a > b) {
     console.log('Největší číslo je C:' + c);
   }
 }
+
+
